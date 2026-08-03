@@ -1,0 +1,2 @@
+# servicepros-static
+static
